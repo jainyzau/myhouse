@@ -42,15 +42,9 @@ $this->pageTitle=Yii::app()->name;
       <p></p>
     </div>
       <div class="row">
-        <div class="col-sm-10">
-          <ul class="list-group">
-            <li class="list-group-item">Cras justo odio</li>
-            <li class="list-group-item">Dapibus ac facilisis in</li>
-            <li class="list-group-item">Morbi leo risus</li>
-            <li class="list-group-item">Porta ac consectetur ac</li>
-            <li class="list-group-item">Vestibulum at eros</li>
-          </ul>
-        </div>
+        <div class="col-md-2">.col-md-2</div>
+        <div class="col-md-8">.col-md-8</div>
+        <div class="col-md-2">.col-md-2</div>
       </div>
 
 <h1>Welcome to <i><?php echo CHtml::encode(Yii::app()->name); ?></i></h1>
