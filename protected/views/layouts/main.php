@@ -74,13 +74,21 @@
   </div><!-- mainmenu -->
 
       <?php echo $content; ?>
-
     </div><!-- /.container -->
 
-    <div class="footer">
-      <div class="container">
-        <p class="text-muted">Place sticky footer content here.</p>
-      </div>
+    <div class="footer" align="center" style="background: #ededec; padding: 10px; width: auto;">
+      <ul id="footer" class="clearfix" style="list-style:none;">
+        <li>
+        <a href="#" rel="nofollow" target="_blank">人才招聘</a> - 
+        <a href="#" rel="nofollow" target="_blank">联系我们</a> - 
+        <a href="#" rel="nofollow" target="_blank"> 版权声明 </a> - 
+        <a href="#" rel="nofollow" target="_blank">免责声明</a> - 
+        <a href="#" rel="nofollow" target="_blank">友情链接</a> - 
+        </li>
+        <li>
+          <p>Copyright© 2010-2015 香山网络 All Rights Reserved 沪ICP备11039897号</p>
+        </li>
+      </ul>
     </div>
 
     <!-- Bootstrap core JavaScript

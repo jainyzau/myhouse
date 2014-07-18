@@ -41,95 +41,89 @@ $this->pageTitle=Yii::app()->name;
     <div>
       <p></p>
     </div>
-
+<ul class="list-group">
+  <li class="list-group-item">
       <div class="row">
         <div class="col-md-2">
           <img src="/myhouse/images/house001.jpg">
         </div>
-        <div class="col-md-8">
+        <div class="col-md-6">
           <p>
           龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
           龙舟路60号 其他租房 - 龙舟路60号 <br>
           2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
           </p>
         </div>
-        <div class="col-md-2">.col-md-2
+        <div class="col-md-2">
           <h3>1400元/月</h3>
         </div>
-      </div>
+      </div></li>
+  <li class="list-group-item">
             <div class="row">
         <div class="col-md-2">
           <img src="/myhouse/images/house002.jpg">
         </div>
-        <div class="col-md-8">
+        <div class="col-md-6">
           <p>
           龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
           龙舟路60号 其他租房 - 龙舟路60号 <br>
           2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
           </p>
         </div>
-        <div class="col-md-2">.col-md-2
+        <div class="col-md-2">
           <h3>1400元/月</h3>
         </div>
       </div>
+</li>
+  <li class="list-group-item">
             <div class="row">
         <div class="col-md-2">
           <img src="/myhouse/images/house003.jpg">
         </div>
-        <div class="col-md-8">
+        <div class="col-md-6">
           <p>
           龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
           龙舟路60号 其他租房 - 龙舟路60号 <br>
           2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
           </p>
         </div>
-        <div class="col-md-2">.col-md-2
+        <div class="col-md-2">
           <h3>1400元/月</h3>
         </div>
       </div>
+</li>
+  <li class="list-group-item">
             <div class="row">
         <div class="col-md-2">
           <img src="/myhouse/images/house004.jpg">
         </div>
-        <div class="col-md-8">
+        <div class="col-md-6">
           <p>
           龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
           龙舟路60号 其他租房 - 龙舟路60号 <br>
           2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
           </p>
         </div>
-        <div class="col-md-2">.col-md-2
+        <div class="col-md-2">
           <h3>1400元/月</h3>
         </div>
       </div>
+</li>
+  <li class="list-group-item">
             <div class="row">
         <div class="col-md-2">
           <img src="/myhouse/images/house005.jpg">
         </div>
-        <div class="col-md-8">
+        <div class="col-md-6">
           <p>
           龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
           龙舟路60号 其他租房 - 龙舟路60号 <br>
           2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
           </p>
         </div>
-        <div class="col-md-2">.col-md-2
+        <div class="col-md-2">
           <h3>1400元/月</h3>
         </div>
       </div>
-
-<h1>Welcome to <i><?php echo CHtml::encode(Yii::app()->name); ?></i></h1>
-
-<p>Congratulations! You have successfully created your Yii application.</p>
-
-<p>You may change the content of this page by modifying the following two files:</p>
-<ul>
-	<li>View file: <code><?php echo __FILE__; ?></code></li>
-	<li>Layout file: <code><?php echo $this->getLayoutFile('main'); ?></code></li>
+</li>
 </ul>
-
-<p>For more details on how to further develop this application, please read
-the <a href="http://www.yiiframework.com/doc/">documentation</a>.
-Feel free to ask in the <a href="http://www.yiiframework.com/forum/">forum</a>,
-should you have any questions.</p>
-
