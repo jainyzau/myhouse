@@ -41,10 +41,81 @@ $this->pageTitle=Yii::app()->name;
     <div>
       <p></p>
     </div>
+
       <div class="row">
-        <div class="col-md-2">.col-md-2</div>
-        <div class="col-md-8">.col-md-8</div>
-        <div class="col-md-2">.col-md-2</div>
+        <div class="col-md-2">
+          <img src="/myhouse/images/house001.jpg">
+        </div>
+        <div class="col-md-8">
+          <p>
+          龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
+          龙舟路60号 其他租房 - 龙舟路60号 <br>
+          2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
+          </p>
+        </div>
+        <div class="col-md-2">.col-md-2
+          <h3>1400元/月</h3>
+        </div>
+      </div>
+            <div class="row">
+        <div class="col-md-2">
+          <img src="/myhouse/images/house002.jpg">
+        </div>
+        <div class="col-md-8">
+          <p>
+          龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
+          龙舟路60号 其他租房 - 龙舟路60号 <br>
+          2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
+          </p>
+        </div>
+        <div class="col-md-2">.col-md-2
+          <h3>1400元/月</h3>
+        </div>
+      </div>
+            <div class="row">
+        <div class="col-md-2">
+          <img src="/myhouse/images/house003.jpg">
+        </div>
+        <div class="col-md-8">
+          <p>
+          龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
+          龙舟路60号 其他租房 - 龙舟路60号 <br>
+          2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
+          </p>
+        </div>
+        <div class="col-md-2">.col-md-2
+          <h3>1400元/月</h3>
+        </div>
+      </div>
+            <div class="row">
+        <div class="col-md-2">
+          <img src="/myhouse/images/house004.jpg">
+        </div>
+        <div class="col-md-8">
+          <p>
+          龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
+          龙舟路60号 其他租房 - 龙舟路60号 <br>
+          2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
+          </p>
+        </div>
+        <div class="col-md-2">.col-md-2
+          <h3>1400元/月</h3>
+        </div>
+      </div>
+            <div class="row">
+        <div class="col-md-2">
+          <img src="/myhouse/images/house005.jpg">
+        </div>
+        <div class="col-md-8">
+          <p>
+          龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
+          龙舟路60号 其他租房 - 龙舟路60号 <br>
+          2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
+          </p>
+        </div>
+        <div class="col-md-2">.col-md-2
+          <h3>1400元/月</h3>
+        </div>
       </div>
 
 <h1>Welcome to <i><?php echo CHtml::encode(Yii::app()->name); ?></i></h1>
