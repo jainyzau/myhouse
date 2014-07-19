@@ -41,89 +41,83 @@ $this->pageTitle=Yii::app()->name;
     <div>
       <p></p>
     </div>
-<ul class="list-group">
-  <li class="list-group-item">
+
+    <div class="container-fluid">
       <div class="row">
         <div class="col-md-2">
-          <img src="/myhouse/images/house001.jpg">
+            <img src="/myhouse/images/house001.jpg">
         </div>
         <div class="col-md-6">
-          <p>
-          龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
-          龙舟路60号 其他租房 - 龙舟路60号 <br>
-          2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
-          </p>
+              <p>
+                龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
+                龙舟路60号 其他租房 - 龙舟路60号 <br>
+                2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
+              </p>
         </div>
         <div class="col-md-2">
-          <h3>1400元/月</h3>
-        </div>
-      </div></li>
-  <li class="list-group-item">
-            <div class="row">
-        <div class="col-md-2">
-          <img src="/myhouse/images/house002.jpg">
-        </div>
-        <div class="col-md-6">
-          <p>
-          龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
-          龙舟路60号 其他租房 - 龙舟路60号 <br>
-          2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
-          </p>
-        </div>
-        <div class="col-md-2">
-          <h3>1400元/月</h3>
+                <h3>1400元/月</h3>
         </div>
       </div>
-</li>
-  <li class="list-group-item">
-            <div class="row">
+      <div class="row">
         <div class="col-md-2">
-          <img src="/myhouse/images/house003.jpg">
+            <img src="/myhouse/images/house002.jpg">
         </div>
         <div class="col-md-6">
-          <p>
-          龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
-          龙舟路60号 其他租房 - 龙舟路60号 <br>
-          2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
-          </p>
+              <p>
+                龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
+                龙舟路60号 其他租房 - 龙舟路60号 <br>
+                2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
+              </p>
         </div>
         <div class="col-md-2">
-          <h3>1400元/月</h3>
+                <h3>1400元/月</h3>
         </div>
       </div>
-</li>
-  <li class="list-group-item">
-            <div class="row">
+      <div class="row">
         <div class="col-md-2">
-          <img src="/myhouse/images/house004.jpg">
+            <img src="/myhouse/images/house003.jpg">
         </div>
         <div class="col-md-6">
-          <p>
-          龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
-          龙舟路60号 其他租房 - 龙舟路60号 <br>
-          2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
-          </p>
+              <p>
+                龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
+                龙舟路60号 其他租房 - 龙舟路60号 <br>
+                2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
+              </p>
         </div>
         <div class="col-md-2">
-          <h3>1400元/月</h3>
+                <h3>1400元/月</h3>
         </div>
       </div>
-</li>
-  <li class="list-group-item">
-            <div class="row">
+      <div class="row">
         <div class="col-md-2">
-          <img src="/myhouse/images/house005.jpg">
+            <img src="/myhouse/images/house005.jpg">
         </div>
         <div class="col-md-6">
-          <p>
-          龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
-          龙舟路60号 其他租房 - 龙舟路60号 <br>
-          2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
-          </p>
+              <p>
+                龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
+                龙舟路60号 其他租房 - 龙舟路60号 <br>
+                2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
+              </p>
         </div>
         <div class="col-md-2">
-          <h3>1400元/月</h3>
+                <h3>1400元/月</h3>
         </div>
       </div>
-</li>
-</ul>
+      <div class="row">
+        <div class="col-md-2">
+            <img src="/myhouse/images/house005.jpg">
+        </div>
+        <div class="col-md-6">
+              <p>
+                龙舟路 很漂亮 套二 房东住的安逸房 1400  <br>
+                龙舟路60号 其他租房 - 龙舟路60号 <br>
+                2室1厅1卫/70㎡/5/7层/精装修/南北向/今天
+              </p>
+        </div>
+        <div class="col-md-2">
+                <h3>1400元/月</h3>
+        </div>
+      </div>
+    </div>
+
+
